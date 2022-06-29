@@ -4,7 +4,7 @@ This project is an intro project to introduce Django rest framework with elastic
 Before cloning this project make sure you have elastic search up and running on your local machine.
 link: https://www.elastic.co/downloads/elasticsearch
 
-a. git clone
+a. git clone https://github.com/maxwellsarpong/Django-ElasticSearch.git
 
 b. activate virtual environment. Be at the project root directory.
     source env/bin/activate
